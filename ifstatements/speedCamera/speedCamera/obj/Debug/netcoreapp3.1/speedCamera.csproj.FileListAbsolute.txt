@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\bin\Debug\netcoreapp3.1\speedCamera.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.csprojAssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\speedCamera\speedCamera\obj\Debug\netcoreapp3.1\speedCamera.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\bin\Debug\netcoreapp3.1\photografy.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.csprojAssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\ifstatements\photografy\photografy\obj\Debug\netcoreapp3.1\photografy.genruntimeconfig.cache

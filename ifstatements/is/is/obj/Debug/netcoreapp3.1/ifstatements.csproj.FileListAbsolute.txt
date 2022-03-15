@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\bin\Debug\netcoreapp3.1\ifstatements.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.csprojAssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\is\is\obj\Debug\netcoreapp3.1\ifstatements.genruntimeconfig.cache
