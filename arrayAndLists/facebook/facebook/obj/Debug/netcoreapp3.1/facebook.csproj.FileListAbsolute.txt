@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\bin\Debug\netcoreapp3.1\facebook.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.csprojAssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\arrayAndLists\facebook\facebook\obj\Debug\netcoreapp3.1\facebook.genruntimeconfig.cache
