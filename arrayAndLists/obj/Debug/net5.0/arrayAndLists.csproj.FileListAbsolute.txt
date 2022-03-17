@@ -1,0 +1,16 @@
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.exe
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.deps.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\ref\arrayAndLists.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\bin\Debug\net5.0\arrayAndLists.pdb
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.csproj.AssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\ref\arrayAndLists.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.pdb
+C:\Users\Lucas Andrade\Documents\Programming\C#\exercises\arrayAndLists\arrayAndLists\obj\Debug\net5.0\arrayAndLists.genruntimeconfig.cache
