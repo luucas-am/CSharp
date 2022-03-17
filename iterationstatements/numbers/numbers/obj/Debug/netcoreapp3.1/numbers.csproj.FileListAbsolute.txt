@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\bin\Debug\netcoreapp3.1\numbers.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.csprojAssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\numbers\numbers\obj\Debug\netcoreapp3.1\numbers.genruntimeconfig.cache

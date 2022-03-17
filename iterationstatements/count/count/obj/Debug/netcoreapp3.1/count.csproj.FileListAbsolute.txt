@@ -1,0 +1,13 @@
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.exe
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.deps.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\bin\Debug\netcoreapp3.1\count.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.dll
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.pdb
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.genruntimeconfig.cache
+C:\Users\Lucas Andrade\Documents\C#\exercises\iterationstatements\count\count\obj\Debug\netcoreapp3.1\count.csprojAssemblyReference.cache
