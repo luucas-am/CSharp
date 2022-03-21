@@ -44,7 +44,7 @@ namespace arrayAndLists
                         Console.WriteLine("ERROR - Invalid Input.");
                         break;
                 }
-                Console.Write("Press Enter To Continue.");
+                Console.Write("Press Any To Continue.");
                 Console.ReadKey();
             }
         }
