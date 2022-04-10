@@ -1,0 +1,16 @@
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.exe
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.deps.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.runtimeconfig.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.runtimeconfig.dev.json
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\ref\random number.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\bin\Debug\net5.0\random number.pdb
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.csproj.AssemblyReference.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.AssemblyInfoInputs.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.AssemblyInfo.cs
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\ref\random number.dll
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.pdb
+C:\Users\Lucas Andrade\Documents\Programming\C#\remaking stuff\random number\obj\Debug\net5.0\random number.genruntimeconfig.cache
